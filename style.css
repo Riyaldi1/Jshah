@@ -1,0 +1,58 @@
+img {
+    position: relative;
+    top: 20px
+margin-top: 0px;
+margin-bottom: 0px;
+	width: 120px;
+    height: 140px;
+}
+    
+.wrapper {
+	   width: 1000 px;
+		margin: 0px auto;}
+	 
+.header {
+margin-top: 0px;
+margin-bottom: 0px;
+margin-left: 0px;
+margin-right: 0px;
+	   width:100%;
+	   height: 140px;
+    float: right;
+   background-color: rosybrown;}
+a:link {
+	color: blue;
+}
+a:visited {
+	color: purple;
+}
+a: hover {
+	color: red;
+}
+a: active{
+	color: green;
+}
+.summary{
+    font-family: arial;
+    font-size: 14px;
+}
+.education{
+    font-family: arial;
+    font-size: 14px;
+}
+.skills{
+    font-family: arial;
+    font-size: 14px;
+}
+.experience{
+    font-family: arial;
+    font-size: 14px;
+}
+.volunteer{
+    font-family: arial;
+    font-size: 14px;
+}
+.leadership{
+    font-family: arial;
+    font-size: 14px;
+}

@@ -1,0 +1,45 @@
+   .wrapper {
+       background-color: gray;
+       top:0px;
+	   width: 1000 px;
+		margin: 0px auto;}
+	 
+
+   .header {
+              top:0px;
+
+       background-image: url("banner.jpg");
+       background-repeat:no-repeat;
+       background-position: left top;
+       height:450px;
+	    }
+
+#bio {
+    position: relative;
+    top: 75px;
+margin-top: 0px;
+margin-bottom: 0px;
+    color: white;
+	font-style: italic;
+	font-family: harrington regular;
+	font-size: 60px;
+	font-weight: bold;
+    float: center top;
+}
+   
+   .linkcolumn {
+       font-family: arial;
+	   width:45%;
+	   height: 150px;
+	   float:left;
+	padding: 20px;   
+   background-color: khaki;}
+   .main {
+       font-family: arial;
+	   width:46%;
+	   height: 150px;
+	   float: right;
+	   padding: 20px;
+   background-color: thistle;}
+   
+	   
